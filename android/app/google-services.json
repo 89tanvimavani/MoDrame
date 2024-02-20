@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991006538731",
+    "project_id": "modrama-7e177",
+    "storage_bucket": "modrama-7e177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991006538731:android:dd5d534069e6a7a92e77ae",
+        "android_client_info": {
+          "package_name": "com.app.modrama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991006538731-5egp7v9k8d1d56t01f7gbgpscpm4f0r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.modrama",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "991006538731-4kq20ds8kvlf7srjelt4r1r054ek2m3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS18J7qXWEmp2j7JFtTL6JKkNn2YEAtvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991006538731-4kq20ds8kvlf7srjelt4r1r054ek2m3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>991006538731-ngp6jidmqdec0gd2g38ojk7eatef44ik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.991006538731-ngp6jidmqdec0gd2g38ojk7eatef44ik</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>991006538731-5egp7v9k8d1d56t01f7gbgpscpm4f0r6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxKtCna0AFoComPADzXggPfWdhmZFHPuA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>991006538731</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.socialapp.modrama</string>
+	<key>PROJECT_ID</key>
+	<string>modrama-7e177</string>
+	<key>STORAGE_BUCKET</key>
+	<string>modrama-7e177.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:991006538731:ios:ee8ca5732b768f222e77ae</string>
+</dict>
+</plist>

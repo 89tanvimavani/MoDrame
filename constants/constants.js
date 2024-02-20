@@ -1,0 +1,5 @@
+export const PRIMARY_FONT = 'AvenirLTStd-Roman'
+export const PRIMARY_FONT_BOLD = 'AvenirLTStd-Medium'
+export const PRIMARY_FONT_THIN = 'Avenir_Light'
+export const PRIMARY_FONT_LIGHT = 'AvenirLTStd-Book'
+export const PRIMARY_FONT_ITALIC = 'AvenirNextLTPro-It'
